@@ -1,6 +1,6 @@
 /*   STEP 1   */
-export const leagueID = "994312568674074624"; // your league ID
-export const leagueName = "Empyrean"; // your league name
+export const leagueID = "981000697229512704"; // your league ID
+export const leagueName = "Hegemony"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
