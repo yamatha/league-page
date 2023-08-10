@@ -7,12 +7,91 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+The DYING SUN streams through high windows, painting
+Harry's face a fierce AMBER-RED as he stands opposite
+Lupin. ANCIENT CHARTS drape the walls while gleaming
+SPHERES OF SPUN GLASS ORBIT one another silently. Lupin
+paces before a LARGE TRUNK.
+PROFESSOR LUPIN
+You're sure about this, Harry?
+This is very advanced magic. Well
+beyond Ordinary Wizarding Level.
+HARRY
+If Black can fight the Dementors,
+I need to know how too.
+Lupin studies Harry -- as if conflicted -- then decides.
+PROFESSOR LUPIN
+Very well. The spell I'm going to
+teach you is called the Patronus
+Charm. Ever hear of it?
+Harry shakes his head.
+PROFESSOR LUPIN
+A Patronus is a kind of positive
+force. For the wizard who can
+conjure one, the Patronus works
+something like a shield. The
+Dementor feeds on it instead of
+him.
+Just then, the trunk RATTLES VIOLENTLY. As Harry's eyes
+wander, Lupin SNAPS his fingers, brings his attention
+back.
+PROFESSOR LUPIN
+But in order for it to work, you
+must think of a memory. And not
+just any. This memory needs to be
+a very happy one. And powerful.
+Harry thinks a bit. Then... nods.
+PROFESSOR LUPIN
+Got something? Good. Let it fill
+you up.
+Lose yourself in it.
+Then speak the incantation:
+Expecto Patronum. Without your
+wand...
+HARRY
+Expecto Patronum...
+(CONTINUED)
+86 INT. ASTRONOMY ROOM - DUSK 86
+68.
+PROFESSOR LUPIN
+Right then. Shall we?
+Harry nods, raises his wand. Lupin, watching closely,
+reaches over, grips the lid of the TRUNK...
+PROFESSOR LUPIN
+Concentrate, Harry.
+Concentrate...
+As Lupin FLINGS open the case, Harry OPENS HIS EYES. In
+the sun's BLOOD-LIGHT, the Dementor looks particularly
+horrific.
+HARRY
+Expecto... Patronum...
+The torches on the wall FLICKER as a CHILL BREEZE fills
+the chamber. A SCREAM ECHOES distantly. Harry's hand
+trembles. His eyes begin to roll up...
+HARRY
+Expecto... Expecto...
+PROFESSOR LUPIN
+Here!
+CRACK! -- the Dementor mutates into a SILVERY WHITE ORB.
+PROFESSOR LUPIN
+Riddikulus!
+Lupin flicks his wand, sends the orb back into the
+packing case. Harry stands blinking. Dazed. Lupin
+fishes a CHOCOLATE FROG from his pocket. Presses it into
+Harry's trembling hand.
+PROFESSOR LUPIN
+Quickly.
+Harry studies the frog. Takes a bite. Begins to
+recover.
+HARRY
+That's one nasty Dementor.
+PROFESSOR LUPIN
+Boggart, Harry. The real thing
+would be much, much worse. Just
+out of interest, what were you
+thinking of? What memory did you
+choose?
+(CONTINUED)
 `;
 
 /*   STEP 3   */
