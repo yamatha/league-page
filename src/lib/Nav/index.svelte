@@ -62,7 +62,7 @@
 <nav>
 	<a href="/"><img id="logo" alt="league logo" src="./badge.png" /></a>
 	<div class="large">
-		<NavLarge {tabs} bind:active={active} />
+<a href="www.google.com">Home</a></b> |  <a href="www.google.com">League Bylaws</a> | <a href=www.google.com>LeagueSafe</a> | <a href=www.google.com>Newsletter</a> | <a href=www.google.com>Statistics</a></
 	</div>
 	<div class="small">
 		<NavSmall {tabs} bind:active={$page.url.pathname} />
