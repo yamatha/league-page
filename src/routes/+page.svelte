@@ -29,6 +29,7 @@
         padding: 0 30px;
         max-width: 620px;
         margin: 0 auto;
+	font-family: "Times New Roman", Times, serif;
     }
 
     .leagueData {
