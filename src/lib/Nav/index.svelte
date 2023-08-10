@@ -42,14 +42,11 @@
 		position: relative;
 		z-index: 2;
 		border-bottom: 1px solid #00316b;
-		box-shadow: 0 0 8px 0 #00316b;
 	}
 
 	#logo {
-		width: 250px;
 		display: block;
 		margin: 0 auto;
-		padding: 10px;
 	}
 
     .large {
